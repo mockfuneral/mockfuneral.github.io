@@ -16,7 +16,7 @@ permalink: pretty
 
 baseurl: "mockfuneral"
 
-highlighter: none
+highlighter: rouge
 
 exclude:
   - .jekyll-cache
