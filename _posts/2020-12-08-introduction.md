@@ -28,7 +28,7 @@ Contact me at
 
 mockfuneralmh [at] gmail [dot] com
 
-or over at Twitter at [@mockfuneral](https://twitter.com/mockfuneral)
+or over at Twitter, [@mockfuneral](https://twitter.com/mockfuneral)
 
 All the best and take care.
 mh
