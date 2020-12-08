@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Mock Funeral</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-12-08T15:38:41+01:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>mh</name>
+   <email>mockfuneralmh@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>SoundMaker and SoundMagicFX plugins</title>
+   <link href="http://localhost:4000/2020/12/08/soundmakersoundmagicfx"/>
+   <updated>2020-12-08T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/12/08/soundmakersoundmagicfx</id>
+   <content type="html">&lt;p&gt;This post will be about SoundMaker by Alberto Ricci and SoundMagicFX by Michael Norris.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introduction</title>
+   <link href="http://localhost:4000/2020/12/08/introduction"/>
+   <updated>2020-12-08T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/12/08/introduction</id>
+   <content type="html">&lt;p&gt;Written by mh&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;In October 2019 I found a link online to Bhob Rainey’s Xynthi Supercollider 2 patch, which I found out didn’t run on current day OSX/macOS operation systems. I listened to the three noisy samples in the recordings folder and decided I had to try this out somehow. So the following month I got a hold of of a Powerbook from 2002, installed OSX 10.3.9 on it alongside OS9.2.2 – just for the hell of it. Might as well go further back now that I have a machine that will allow that.&lt;/p&gt;
+
+&lt;p&gt;I got Xynthi working and loved it. Absolutely loved it. I used it quite regularly throughout 2020 and made a handful of releases using the patch. During all of this I had tried to get a few pieces of OS9 software to work, but with constant crashes and errors, so I put it away for a few months and focused on Xynthi.&lt;/p&gt;
+
+&lt;p&gt;In summer of 2020 I had to go to the Netherlands for a 6-month exchange. Leaving all of my bulky gear in a basement in Copenhagen and only taking essentials, which, for some reason, also happened to include the Powerbook.&lt;/p&gt;
+
+&lt;p&gt;In November of 2020, a year after getting the Powerbook in the first place, I suddenly felt like it was time to revisit OS9 and old software in general. I made a thread on the &lt;a href=&quot;https://llllllll.co/&quot;&gt;lines forums&lt;/a&gt; to see if anyone had anything interesting to share. Software, stories, techniques, etc. Quite a lot of insightful replies later I decided to start this blog/site to archive the things people wrote. Mostly to have it be a bit more permanent than on a niche forum.&lt;/p&gt;
+
+&lt;p&gt;So here we are. A little blog to archive all these findings.&lt;/p&gt;
+
+&lt;p&gt;Why even care about, let alone USE, all this old software running on terribly obsolete hardware? I can’t give a really insightful, poetic answer. I just find it fascinating. And it sounds fantastic. Different.&lt;/p&gt;
+
+&lt;p&gt;I’ll do my best to keep this site alive. If you have any pieces of software you would like to write a bit about, experience using it, tips, techniques, stories, let me know.&lt;/p&gt;
+
+&lt;p&gt;Contact me at&lt;/p&gt;
+
+&lt;p&gt;mockfuneralmh [at] gmail [dot] com&lt;/p&gt;
+
+&lt;p&gt;or over at Twitter at &lt;a href=&quot;https://twitter.com/mockfuneral&quot;&gt;@mockfuneral&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;All the best and take care.
+mh&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
