@@ -4,7 +4,7 @@
  <title>Mock Funeral</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-12-08T15:38:41+01:00</updated>
+ <updated>2020-12-09T11:31:10+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>mh</name>
@@ -13,11 +13,113 @@
 
  
  <entry>
-   <title>SoundMaker and SoundMagicFX plugins</title>
-   <link href="http://localhost:4000/2020/12/08/soundmakersoundmagicfx"/>
-   <updated>2020-12-08T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/12/08/soundmakersoundmagicfx</id>
-   <content type="html">&lt;p&gt;This post will be about SoundMaker by Alberto Ricci and SoundMagicFX by Michael Norris.&lt;/p&gt;
+   <title>SoundMaker and SoundMagicFX plugins (1997)</title>
+   <link href="http://localhost:4000/2020/12/09/soundmakersoundmagicfx"/>
+   <updated>2020-12-09T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/12/09/soundmakersoundmagicfx</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/soundmagicfxicons.png&quot; alt=&quot;SoundMagicFX icons&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Written by mh
+***
+SoundMaker by Alberto Ricci is sound editor for Mac (68k and PPC), released in 1997. It is the commercial upgrade to his earlier free software, SoundEffects, from a few years prior.
+I have tried to get in contact with Ricci since I started using the software, but no luck so far. I found an email address on his old 2003 website, but, unsurprisingly, it didn’t go through. It seems he might work at Apple these days.&lt;/p&gt;
+
+&lt;p&gt;SoundMagicFX by Michael Norris is a suite of plugins for SoundMaker. The plugins are still available for download at &lt;a href=&quot;https://www.michaelnorris.info/soundmagic/download.html&quot;&gt;Michael Norris’ website&lt;/a&gt;, but the shareware plugins folder requires a password and, when imported into SoundMaker, requires a registration code to use them.&lt;/p&gt;
+
+&lt;p&gt;Upon realizing this, I contacted Michael Norris and asked if I could obtain a license. He got back to me, but unfortunately he didn’t remember the password after all these years. Further research into the plugins led me to an interview with Markus Popp/Oval, who apparently was using SoundMaker and the Norris plugins in the late 90s. So I contacted him and asked if he had them somewhere on an old machine. Not more than a day later he got back to me with the passwords.&lt;/p&gt;
+
+&lt;p&gt;I have received permission from Michael Norris himself to share the password for the shareware folder and registration code here. But please do understand that these are not supported anymore and have long since been replaced by his realtime plugins, &lt;a href=&quot;https://www.michaelnorris.info/software/soundmagic-spectral&quot;&gt;SoundMagic Spectral.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;shareware-effects-bundle-archive-password&quot;&gt;“Shareware Effects” bundle archive password:&lt;/h4&gt;
+&lt;p&gt;chrysalis&lt;/p&gt;
+
+&lt;h4 id=&quot;registration-code&quot;&gt;Registration Code:&lt;/h4&gt;
+&lt;p&gt;75279888&lt;/p&gt;
+
+&lt;p&gt;If you end up using this, please consider donating to Norris himself at michael.norris@vuw.ac.nz&lt;/p&gt;
+
+&lt;p&gt;The non-realtime rendering of SoundMaker reminds me of working in Composer’s Desktop Project/CDP, though CDP seems to process even slower, even on a modern laptop. But I really am liking this very different way of working. Load up a file, load up a process, adjust, wait for 10-60 seconds, result. Listen, adjust, process, result. Because of the limited memory of my Powerbook, I can’t really go nuts with the processes, as it will quickly run out of memory and tell me so right away. So I find myself working with quite short audiofiles, which I then process and save different versions of for later use. So I end up having this little sound bank after each SoundMaker session that I can then arrange, re-sample, whatever, on my modern laptop (which, as of this post, is from 2012). I really don’t mind the DAW puzzle micro-arrangement workflow, since it really forces me to work with and perceive time on a wholly different scale. I wonder if this will push me to compose very short pieces. Micro works. Time to finally pick up a copy of Microsound I guess.&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://macintoshgarden.org/apps/soundmaker-103&quot;&gt;SoundMaker 1.0.3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://riccisoft.com/soundeffects/&quot;&gt;SoundEffects 0.9.2&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.michaelnorris.info/soundmagic/download.html&quot;&gt;SoundMagicFX&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://riccisoft.com/&quot;&gt;Alberto Ricci’s site (Not updated since 2003)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.michaelnorris.info/&quot;&gt;Michael Norris’ site&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.michaelnorris.info/soundmagic/effects.html&quot;&gt;SoundMagicFX documentation&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tips-and-findings&quot;&gt;Tips and findings&lt;/h3&gt;
+
+&lt;p&gt;When putting in the shareware folder password, I had to try two different compression tools on my modern laptop, as the first one (which might have been the macOS standard one) didn’t accept the password, but another one did.&lt;/p&gt;
+
+&lt;p&gt;I have tried Ricci’s SoundEffects, but it is quite lacking compared to SoundMaker. It doesn’t even feature an ‘undo’ function. I tried to import the SoundMagicFX plugins into SoundEffects, but they don’t show up. In case you wanted to try it out. So as of now I haven’t found any reason to use SoundEffects over SoundMaker.&lt;/p&gt;
+
+&lt;p&gt;When I first imported the SoundMagicFX plugins into SoundMaker, it took me a while to realize that most - if not all - of the GUIs for the proccesse, both standard and Norris ones, didn’t output. It just used the default GUI settings every single time. Trashing the preference folder and re-registrering did the trick and now everything works.&lt;/p&gt;
+
+&lt;h3 id=&quot;audio&quot;&gt;Audio&lt;/h3&gt;
+
+&lt;p&gt;A few examples of what I had lying about. If you’d like to add your own more interesting examples, get in touch.
+Input for all of these examples is acoustic guitar.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/944144827&amp;amp;color=%236c6c6a&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/mockfuneral&quot; title=&quot;Mock Funeral Audio&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Mock Funeral Audio&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/mockfuneral/soundmaker-soundmagicfx-4&quot; title=&quot;SoundMaker &amp;amp; SoundMagicFX:  Strum 1a&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;SoundMaker &amp;amp; SoundMagicFX:  Strum 1a&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/944144821&amp;amp;color=%236c6c6a&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/mockfuneral&quot; title=&quot;Mock Funeral Audio&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Mock Funeral Audio&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/mockfuneral/soundmaker-soundmagicfx-3&quot; title=&quot;SoundMaker &amp;amp; SoundMagicFX: Strum 1b&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;SoundMaker &amp;amp; SoundMagicFX: Strum 1b&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/944144815&amp;amp;color=%236c6c6a&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/mockfuneral&quot; title=&quot;Mock Funeral Audio&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Mock Funeral Audio&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/mockfuneral/soundmaker-strum-1c&quot; title=&quot;Soundmaker Strum 1c&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Soundmaker Strum 1c&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/944144806&amp;amp;color=%236c6c6a&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/mockfuneral&quot; title=&quot;Mock Funeral Audio&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Mock Funeral Audio&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/mockfuneral/soundmaker-soundmagicfx-strum&quot; title=&quot;SoundMaker &amp;amp; SoundMagicFX: Strum 2c&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;SoundMaker &amp;amp; SoundMagicFX: Strum 2c&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/944144809&amp;amp;color=%236c6c6a&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/mockfuneral&quot; title=&quot;Mock Funeral Audio&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Mock Funeral Audio&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/mockfuneral/soundmaker-soundmagicfx-1&quot; title=&quot;SoundMaker &amp;amp; SoundMagicFX: Strum 2b&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;SoundMaker &amp;amp; SoundMagicFX: Strum 2b&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/944144812&amp;amp;color=%236c6c6a&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/mockfuneral&quot; title=&quot;Mock Funeral Audio&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Mock Funeral Audio&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/mockfuneral/soundmaker-soundmagicfx-2&quot; title=&quot;SoundMaker &amp;amp; SoundMagicFX: Strum 2a&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;SoundMaker &amp;amp; SoundMagicFX: Strum 2a&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;This is an interesting one. I tried to process a file that was a bit long and very quickly during the process rendering, it ran out of memory and cancelled the operation. Sometimes when SoundMaker does this, it will still have rendered some of the file. Sometimes when it does this, it just glitches out completely for some of the file. Absolutely lovely sounds. After this I ran the same process again and it glitched out again, but when I went to save the file, the glitching had disappeared from the file. It didn’t even appear in the waveform anymore. It was only there for a brief moment. I still haven’t been able to recreate this.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/944144839&amp;amp;color=%236c6c6a&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/mockfuneral&quot; title=&quot;Mock Funeral Audio&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Mock Funeral Audio&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/mockfuneral/soundmaker-soundmagicfx-memory&quot; title=&quot;SoundMaker &amp;amp; SoundMagicFX: Memory glitch&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;SoundMaker &amp;amp; SoundMagicFX: Memory glitch&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Here some of the manipulated files from SoundMaker are mangled by a a ppooll patch on a modern laptop. I ought to have used lloopp for Max/MSP 4, but well.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/944174428&amp;amp;color=%236c6c6a&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/mockfuneral&quot; title=&quot;Mock Funeral Audio&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Mock Funeral Audio&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/mockfuneral/soundmaker-soundmagicfx-ppooll-1&quot; title=&quot;SoundMaker, SoundMagicFX &amp;amp; Ppooll 1&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;SoundMaker, SoundMagicFX &amp;amp; Ppooll 1&lt;/a&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;screenshots&quot;&gt;Screenshots&lt;/h3&gt;
+
+&lt;p&gt;Full view:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/soundmakerfull1.png&quot; alt=&quot;Soundmaker, full view&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;SoundMaker effects menu:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/soundmakermenu1.jpg&quot; alt=&quot;SoundMaker effects menu&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;SoundMaker, Mike Norris effects menu:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/soundmakermenu2.jpg&quot; alt=&quot;Norris FX menu&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Time varying stretch:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/soundmaker_timevari.jpg&quot; alt=&quot;Timevarying stretch&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Chunkmunger:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/soundmakerchunkmunger1.jpg&quot; alt=&quot;chunkmunger&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;And the best: the tonedialer:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/soundmakertonedailer.jpg&quot; alt=&quot;Tonedialer&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
@@ -26,11 +128,9 @@
    <link href="http://localhost:4000/2020/12/08/introduction"/>
    <updated>2020-12-08T00:00:00+01:00</updated>
    <id>http://localhost:4000/2020/12/08/introduction</id>
-   <content type="html">&lt;p&gt;Written by mh&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;In October 2019 I found a link online to Bhob Rainey’s Xynthi Supercollider 2 patch, which I found out didn’t run on current day OSX/macOS operation systems. I listened to the three noisy samples in the recordings folder and decided I had to try this out somehow. So the following month I got a hold of of a Powerbook from 2002, installed OSX 10.3.9 on it alongside OS9.2.2 – just for the hell of it. Might as well go further back now that I have a machine that will allow that.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Written by mh
+***
+In October 2019 I found a link online to Bhob Rainey’s Xynthi Supercollider 2 patch, which I found out didn’t run on current day OSX/macOS. I listened to the three noisy samples in the recordings folder and decided I had to try this out somehow. So the following month I got a hold of of a Powerbook from 2002, installed OSX 10.3.9 on it alongside OS9.2.2 – just for the hell of it. Might as well go further back now that I have a machine that will allow that.&lt;/p&gt;
 
 &lt;p&gt;I got Xynthi working and loved it. Absolutely loved it. I used it quite regularly throughout 2020 and made a handful of releases using the patch. During all of this I had tried to get a few pieces of OS9 software to work, but with constant crashes and errors, so I put it away for a few months and focused on Xynthi.&lt;/p&gt;
 
@@ -48,7 +148,7 @@
 
 &lt;p&gt;mockfuneralmh [at] gmail [dot] com&lt;/p&gt;
 
-&lt;p&gt;or over at Twitter at &lt;a href=&quot;https://twitter.com/mockfuneral&quot;&gt;@mockfuneral&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;or over at Twitter, &lt;a href=&quot;https://twitter.com/mockfuneral&quot;&gt;@mockfuneral&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;All the best and take care.
 mh&lt;/p&gt;
