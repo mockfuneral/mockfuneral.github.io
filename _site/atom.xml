@@ -4,7 +4,7 @@
  <title>Mock Funeral</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-12-09T11:31:10+01:00</updated>
+ <updated>2020-12-09T11:35:13+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>mh</name>
@@ -19,9 +19,11 @@
    <id>http://localhost:4000/2020/12/09/soundmakersoundmagicfx</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/soundmagicfxicons.png&quot; alt=&quot;SoundMagicFX icons&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Written by mh
-***
-SoundMaker by Alberto Ricci is sound editor for Mac (68k and PPC), released in 1997. It is the commercial upgrade to his earlier free software, SoundEffects, from a few years prior.
+&lt;p&gt;Written by mh&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;SoundMaker by Alberto Ricci is sound editor for Mac (68k and PPC), released in 1997. It is the commercial upgrade to his earlier free software, SoundEffects, from a few years prior.
 I have tried to get in contact with Ricci since I started using the software, but no luck so far. I found an email address on his old 2003 website, but, unsurprisingly, it didn’t go through. It seems he might work at Apple these days.&lt;/p&gt;
 
 &lt;p&gt;SoundMagicFX by Michael Norris is a suite of plugins for SoundMaker. The plugins are still available for download at &lt;a href=&quot;https://www.michaelnorris.info/soundmagic/download.html&quot;&gt;Michael Norris’ website&lt;/a&gt;, but the shareware plugins folder requires a password and, when imported into SoundMaker, requires a registration code to use them.&lt;/p&gt;

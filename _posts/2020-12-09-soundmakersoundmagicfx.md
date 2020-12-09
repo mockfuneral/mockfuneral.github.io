@@ -9,7 +9,9 @@ tags: [SoundMaker, SoundMagicFX, Alberto Ricci, Michael Norris, OS9, 1997]
 ![SoundMagicFX icons](/assets/images/soundmagicfxicons.png)
 
 Written by mh
+
 ***
+
 SoundMaker by Alberto Ricci is sound editor for Mac (68k and PPC), released in 1997. It is the commercial upgrade to his earlier free software, SoundEffects, from a few years prior.
 I have tried to get in contact with Ricci since I started using the software, but no luck so far. I found an email address on his old 2003 website, but, unsurprisingly, it didn't go through. It seems he might work at Apple these days.
 
