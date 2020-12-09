@@ -6,9 +6,9 @@ summary: Summary
 tags: [introduction]
 ---
 
-Written by mh
+Written by mh.
 
-***
+
 
 In October 2019 I found a link online to Bhob Rainey's Xynthi Supercollider 2 patch, which I found out didn't run on current day OSX/macOS. I listened to the three noisy samples in the recordings folder and decided I had to try this out somehow. So the following month I got a hold of of a Powerbook from 2002, installed OSX 10.3.9 on it alongside OS9.2.2 – just for the hell of it. Might as well go further back now that I have a machine that will allow that.
 
