@@ -23,10 +23,10 @@ I have received permission from Michael Norris himself to share the password for
 
 
 #### "Shareware Effects" bundle archive password:
-chrysalis
+>chrysalis
 
 #### Registration Code:
-75279888
+>75279888
 
 If you end up using this, please consider donating to Norris himself at michael.norris@vuw.ac.nz
 
